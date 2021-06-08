@@ -1,0 +1,3 @@
+database_url = "mongodb+srv://snail:tim262373@cluster0.hdaxf.mongodb.net/sample_analytics?retryWrites=true&w=majority"
+log_level = "warning"
+secret_key = "jXn2r4u7x!A%D*G-KaPdSgVkYp3s6v8y"
